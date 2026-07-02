@@ -21,3 +21,5 @@ um conjunto de dados de anúncios de venda de carros nos EUA (`vehicles_us.csv`)
 1. Crie e ative um ambiente virtual.
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Rode o app: `streamlit run app.py`
+
+URL do app Render: https://sprint-5-2ntc.onrender.com/
